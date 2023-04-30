@@ -2,12 +2,12 @@
   "input": "./gallery",
   "output": "./build_output",
   "title": "Photo Gallery",
-  "sort-albums-by": "title",
+  "sort-albums-by": "start-date",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Copyright © https://lhprojects.github.io/blog/. For high-resolution photos, visit the project page: https://github.com/lhprojects/photo-gallery",
   "usage-stats": false
 }
