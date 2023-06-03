@@ -3,6 +3,7 @@
   "output": "./build_output",
   "title": "Photo Gallery",
   "sort-albums-by": "start-date",
+  "sort-albums-direction": "desc",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
