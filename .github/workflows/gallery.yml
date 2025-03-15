@@ -33,6 +33,6 @@ jobs:
           artifact_name: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Delete artifact 🗑️
-        uses: geekyeggo/delete-artifact@v4
+        uses: geekyeggo/delete-artifact@v5
         with:
           name: gh-pages
