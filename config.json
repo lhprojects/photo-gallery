@@ -5,7 +5,7 @@
   "sort-albums-by": "start-date",
   "sort-albums-direction": "desc",
   "sort-media-by": "filename",
-  "download-photos": "copy",
+  "download-photos": "resize",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
