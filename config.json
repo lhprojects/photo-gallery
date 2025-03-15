@@ -5,8 +5,6 @@
   "sort-albums-by": "start-date",
   "sort-albums-direction": "desc",
   "sort-media-by": "filename",
-  "download-photos": "resize",
-  "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
   "footer": "Copyright © https://lhprojects.github.io/blog/. For high-resolution photos, visit the project page: https://github.com/lhprojects/photo-gallery",
